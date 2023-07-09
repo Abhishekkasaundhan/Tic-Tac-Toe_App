@@ -1,5 +1,5 @@
 # TicTacToeApp
-Users can play tic tac toe game in this app very easily.
+Users can play the tic tac toe game in this app very easily.
 
 
 
