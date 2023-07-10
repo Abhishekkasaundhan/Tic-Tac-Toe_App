@@ -1,4 +1,4 @@
-# Tic Tac Toe App
+# Tic-Tac-Toe App
 Users can play the tic tac toe game in this app very easily.
 
 
